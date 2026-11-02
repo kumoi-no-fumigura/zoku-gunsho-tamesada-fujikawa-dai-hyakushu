@@ -1582,6 +1582,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 11,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-tamesada-fujikawa-dai-hyakushu",
   "work": "為定卿藤川題百首",
@@ -1594,7 +1598,7 @@
   "blocks": 11,
   "chars": 2883,
   "poems": 94,
-  "yaku": 0,
+  "yaku": 11,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T09:54:08+09:00"
